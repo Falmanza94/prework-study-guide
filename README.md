@@ -1,2 +1,2 @@
-# prework-study-guide-official
+# prework-study-guide
 Official repo for bootcamp
